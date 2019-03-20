@@ -8,7 +8,7 @@ highlighter: rouge
 
 plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
 
-paginate: 10
+paginate: 4
 
 logo:             logo.png
 disqus_shortname:
@@ -18,3 +18,4 @@ owner:
   name:           Игровые слоты
   # Social networking links used in footer. Update and remove as you like.
   github: https://github.com/jarvisblog
+ыфв

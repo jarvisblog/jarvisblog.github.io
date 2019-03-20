@@ -3,7 +3,7 @@ description: >
     Все об игровых слотах. Здень вы найдете популярные и надержные игровые слоты в онлайн казино
 about: >
     онлайн казино их слоты. Играю уже более 4 лет в онлайн казино, расскажу как поднять баблишка без напряга
-    
+
 master_repo: false
 url: "http://jarvisblog.github.io"
 markdown: kramdown
@@ -18,6 +18,6 @@ disqus_shortname:
 
 rtl: false
 owner:
-  name:           whitepaper
+  name:           Игровые слоты
   # Social networking links used in footer. Update and remove as you like.
   github: https://github.com/jarvisblog

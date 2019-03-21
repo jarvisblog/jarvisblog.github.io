@@ -17,17 +17,15 @@ tags_path : tags.html
 BASE_PATH : http://chaussures2016.com
 
 
-title : uno-dbyll
+title : Фёдор Хольц - профессиональный покер
 
 
 
 author:
-  name: Ankan Biswas
+  name: Фёдор Хольц 
   role: Jekyll Theme
-  email: meliodus@tutanota.com
-  github: meliodus
-  twitter: talk2ankan
-  facebook: talk2ankan
-  googleplus: +AnkanBiswasWorkspace
-  bio: "Simple, clean, responsive and stylist theme for jekyll. "
-  uno-dbyll: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/uno-dbyll.png
+  email: fedor@chaussures2016.com
+  github: jarvisblog
+  facebook: https://www.facebook.com/Crownupguy/
+  bio: "Немец Федор Хольц в свои юные годы уже объявил о завершении карьеры профессионального игрока, однако прежде успел навсегда вписать свое имя в историю покера."
+  uno-dbyll: https://chaussures2016.com/uno-dbyll.png

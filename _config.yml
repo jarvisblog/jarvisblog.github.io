@@ -1,23 +1,33 @@
-name: Популярные игровые слоты
-description: >
-    Все об игровых слотах. Здень вы найдете популярные и надержные игровые слоты в онлайн казино
-about: >
-    онлайн казино их слоты. Играю уже более 4 лет в онлайн казино, расскажу как поднять баблишка без напряга
-
-master_repo: false
-url: "http://jarvisblog.github.io"
+# This is the default format.
+# For more see: http://jekyllrb.com/docs/permalinks/
+permalink: /:title
+# https://help.github.com/articles/migrating-your-pages-site-from-maruku
 markdown: kramdown
-highlighter: rouge
 
-plugins: ['jekyll-paginate', 'jekyll-gist', 'jekyll-feed']
+highlighter: pygments
+paginate: 20 # pagination based on number of posts
+paginate_path: "page/:num"
 
-paginate: 10
+# These paths are to the main pages Jekyll-Bootstrap ships with.
+# Some JB helpers refer to these paths; change them here if needed.
+#
+categories_path : categories.html
+tags_path : tags.html
 
-logo:             logo.png
-disqus_shortname:
+BASE_PATH : http://meliodus.github.io/uno-dbyll
 
-rtl: false
-owner:
-  name:           Игровые слоты
-  # Social networking links used in footer. Update and remove as you like.
-  github: https://github.com/jarvisblog
+
+title : uno-dbyll
+
+
+
+author:
+  name: Ankan Biswas
+  role: Jekyll Theme
+  email: meliodus@tutanota.com
+  github: meliodus
+  twitter: talk2ankan
+  facebook: talk2ankan
+  googleplus: +AnkanBiswasWorkspace
+  bio: "Simple, clean, responsive and stylist theme for jekyll. "
+  uno-dbyll: https://raw.githubusercontent.com/meliodus/uno-dbyll/gh-pages/uno-dbyll.png

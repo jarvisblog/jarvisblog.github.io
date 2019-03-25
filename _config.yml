@@ -15,11 +15,17 @@ categories_path : categories.html
 tags_path : tags.html
 
 BASE_PATH : http://chaussures2016.com/
-
+baseurl: '/'
+url: "http://www.svijet-beba.com"
 
 title : Фёдор Хольц - профессиональный покер
 
-
+plugins: 
+  - jekyll-minifier
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-archives
 
 author:
   name: Фёдор Хольц 

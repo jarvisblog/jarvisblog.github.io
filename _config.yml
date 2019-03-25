@@ -15,8 +15,7 @@ categories_path : categories.html
 tags_path : tags.html
 
 BASE_PATH : http://chaussures2016.com/
-baseurl: '/'
-url: "http://chaussures2016.com"
+
 
 title : Фёдор Хольц - профессиональный покер
 

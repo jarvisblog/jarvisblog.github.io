@@ -1,5 +1,3 @@
-
-
 /*!
  * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=dc8ecd85d74e75e3c20d)
  * Config saved to config.json and https://gist.github.com/dc8ecd85d74e75e3c20d

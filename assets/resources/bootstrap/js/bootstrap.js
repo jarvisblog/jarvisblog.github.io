@@ -1,6 +1,4 @@
----
-layout: compress-js
----
+
 
 /*!
  * Generated using the Bootstrap Customizer (http://getbootstrap.com/customize/?id=dc8ecd85d74e75e3c20d)
